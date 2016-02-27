@@ -1,0 +1,29 @@
+_repo: Hermione-and-Her-Little-Group-of-Serious-Thinkers_776
+creator:
+  author:
+    agent_name: Marquis, Don
+    aliases:
+    - Marquis, D. R. (Donald Robert)
+    - Marquis, Donald Robert Perry
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '245'
+    url: http://www.gutenberg.org/2009/agents/245
+    wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
+description: Faddish woman collects group of female busybodies about her to increase
+  her own self-esteem.
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PS'
+- !lcsh 'Superficiality -- Fiction'
+title: Hermione and Her Little Group of Serious Thinkers
+url: http://www.gutenberg.org/ebooks/776
