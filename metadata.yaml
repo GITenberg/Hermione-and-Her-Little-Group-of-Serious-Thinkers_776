@@ -1,5 +1,8 @@
 _repo: Hermione-and-Her-Little-Group-of-Serious-Thinkers_776
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marquis, Don
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Don_Marquis
 description: Faddish woman collects group of female busybodies about her to increase
   her own self-esteem.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/776#Hermione-and-Her-Little-Group-of-Serious-Thinkers
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
