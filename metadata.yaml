@@ -1,5 +1,5 @@
 _repo: Hermione-and-Her-Little-Group-of-Serious-Thinkers_776
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Satire'
 - !lcc 'PS'
 - !lcsh 'Superficiality -- Fiction'
+- GITenberg
 title: Hermione and Her Little Group of Serious Thinkers
 url: http://www.gutenberg.org/ebooks/776
